@@ -3,3 +3,8 @@ body {
     background: url('../Basic-Portfolio/Assets/images/folk-pattern.png')
     
 }
+
+img {
+    width: 260px;
+    height: 260px;
+}
