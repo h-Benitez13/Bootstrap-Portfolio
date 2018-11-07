@@ -58,7 +58,8 @@ button:active{
     overflow: hidden;
 }
 .caption{
-    width: 200px;
+    float: left;
+    width: 230px;
     opacity: 0.79;
     background: #4aaaa5;
     color: #ffffff;
@@ -75,6 +76,6 @@ footer{
     background-color: #666666;
     text-align: center;
     font-size: 15px;
-    padding: 15px;
+    padding: 10px;
     color: #fff;
 }
