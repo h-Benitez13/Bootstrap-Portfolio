@@ -35,17 +35,15 @@ h1{
 }
 
 h2{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    clear: both;
-    Border-top: 8px solid #4aaaa5;
-    background-color: #666666;
+    font-size: 30px;
+    width: 230px;
+    opacity: 0.9;
+    position: relative;
+    bottom: 80px;
     text-align: center;
-    font-size: 25px;
-    padding: 20px;
-    color: #fff;
+    color: #ffffff;
+    padding: 5px;
+    background: #4aaaa5
 }
 
 button:active{
@@ -56,15 +54,9 @@ button:active{
 .col-md-4{
     clear: both;
     overflow: hidden;
+    margin-bottom: 10px;
 }
-.caption{
-    float: left;
-    width: 230px;
-    opacity: 0.79;
-    background: #4aaaa5;
-    color: #ffffff;
-    
-}
+
 
 footer{
     position: fixed;
