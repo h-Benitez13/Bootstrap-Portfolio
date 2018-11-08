@@ -46,6 +46,18 @@ h2{
     background: #4aaaa5
 }
 
+.badge{
+    font-size: 30px;
+    opacity: 0.9;
+    position: relative;
+    left: 30px;
+    bottom: 80px;
+    text-align: center;
+    color: #ffffff;
+    padding: 5px;
+    background: #4aaaa5
+}
+
 button:active{
     background: #4aaaa5;
 }
