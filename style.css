@@ -29,12 +29,15 @@ h1{
 }
 
 img{
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
     margin-left: 15px;
 }
 
 .caption{
     font-size: 30px;
-    width: 300px;
+    width: 100%;
     left: 15px;
     opacity: 0.9;
     position: relative;
